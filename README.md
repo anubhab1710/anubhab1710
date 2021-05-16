@@ -3,8 +3,8 @@
 <img src="./assets/Github Profile 2.jpg">
 </p>
 <p align="center"> 
-<img align="center" width="380px" src="https://github-readme-stats.vercel.app/api?username=anubhab1710&count_private=true&show_icons=true&theme=react" />
-<img align="center" width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhab1710&theme=react" />
+<img align="center" width="420px" src="https://github-readme-stats.vercel.app/api?username=anubhab1710&count_private=true&show_icons=true&theme=react" />
+<img align="center" width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhab1710&theme=react" />
 </p>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=anubhab1710i&theme=vue" /> -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=imniladri&theme=react&layout=compact" /> -->
