@@ -1,8 +1,8 @@
-<!-- <p align="center"> -->
+<p align="center">
 
 <img align="center" src="./assets/Github Profile.jpg">
 <img align="center" src="./assets/Github Profile 2.jpg">
-<!--</p> -->
+
 <p align="center"> 
 <img align="center" width="420px" src="https://github-readme-stats.vercel.app/api?username=anubhab1710&count_private=true&show_icons=true&theme=react" />
 <img align="center" width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhab1710&theme=react" />
