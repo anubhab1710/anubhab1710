@@ -8,11 +8,7 @@
 <img align="center" width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhab1710&theme=react" />
 </p>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=anubhab1710i&theme=vue" /> -->
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=imniladri&theme=react&layout=compact" /> -->
-
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhab1710&layout=compact&theme=react&count_private=false" />
-
-
 <!--
 **anubhab1710/anubhab1710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
